@@ -1,0 +1,13 @@
+{
+  "main.css": "/weather-scanner/static/css/main.d7ee612c.chunk.css",
+  "main.js": "/weather-scanner/static/js/main.8378d72c.chunk.js",
+  "main.js.map": "/weather-scanner/static/js/main.8378d72c.chunk.js.map",
+  "static/js/1.fbfa9ac1.chunk.js": "/weather-scanner/static/js/1.fbfa9ac1.chunk.js",
+  "static/js/1.fbfa9ac1.chunk.js.map": "/weather-scanner/static/js/1.fbfa9ac1.chunk.js.map",
+  "runtime~main.js": "/weather-scanner/static/js/runtime~main.1e54e6cf.js",
+  "runtime~main.js.map": "/weather-scanner/static/js/runtime~main.1e54e6cf.js.map",
+  "static/css/main.d7ee612c.chunk.css.map": "/weather-scanner/static/css/main.d7ee612c.chunk.css.map",
+  "index.html": "/weather-scanner/index.html",
+  "precache-manifest.b1a0cd12811466b5e0284ca6106f5c7a.js": "/weather-scanner/precache-manifest.b1a0cd12811466b5e0284ca6106f5c7a.js",
+  "service-worker.js": "/weather-scanner/service-worker.js"
+}
